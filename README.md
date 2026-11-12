@@ -11,4 +11,4 @@ python3 -m http.server 8080 -d docs
 
 Open it in a browser
 
-&nbsp;&nbsp; http://localhost:8080
+&nbsp;&nbsp;&nbsp;&nbsp; [`http://localhost:8080`](http://localhost:8080)
